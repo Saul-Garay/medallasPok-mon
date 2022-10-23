@@ -1,0 +1,37 @@
+h2 {
+    border-style: dashed;
+    border-color: blue;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+ol {
+    border-style: dashed;
+    border-color: red;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+#ls1 {
+    border-style: solid;
+    border-color: yellowgreen;
+    border-width: 5px;
+}
+
+#ls2 {
+    border-style: solid;
+    border-color: yellowgreen;
+    border-width: 5px;
+}
+
+#agua{
+    background: #4dc3ff;
+}
+
+#psiquico{
+    background: #FFD919;
+}
+
+#todo{
+    background: #FF99FF;
+}

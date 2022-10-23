@@ -1,0 +1,33 @@
+#letrero{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #ff33ff;
+    border-style: dashed;
+    border-color: #4dfff4;
+    border-width: 5px;
+    
+}
+
+#fir{
+    border-image-slice: initial;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#link{background: #ff33ff;
+    border-style: solid;
+    border-color: #4dfff4;
+    border-width: 5px;
+    font-family: cursive;
+
+}
+
+p{
+    font-family: cursive;
+}
+
+
+li{
+    font-family: cursive;
+}
